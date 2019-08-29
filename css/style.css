@@ -1,0 +1,5 @@
+@media (min-width: 580px) {
+    .img-query { 
+        background: url("/open-iconic/svg/phone.svg")
+    }
+}
